@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T16:04:11.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ZLEymskw_ue8zJfeT4VO" version="13.5.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-07-31T16:07:00.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="zdq3Y6EgHQ-zlP4C4a4n" version="13.5.5" type="github" pages="8">
   <diagram id="cMSHT4KQ2430ZTd0Kka2" name="Page-1">
     <mxGraphModel dx="1312" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,24 @@
       <root>
         <mxCell id="WaVh5tS_yYOcaVBdqz68-0" />
         <mxCell id="WaVh5tS_yYOcaVBdqz68-1" parent="WaVh5tS_yYOcaVBdqz68-0" />
+        <mxCell id="NRJXiw20EgUh3qlL-Q1--0" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ES5&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="WaVh5tS_yYOcaVBdqz68-1">
+          <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRJXiw20EgUh3qlL-Q1--2" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ES2016&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WaVh5tS_yYOcaVBdqz68-1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRJXiw20EgUh3qlL-Q1--3" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ES2017&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WaVh5tS_yYOcaVBdqz68-1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRJXiw20EgUh3qlL-Q1--4" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ES2018&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WaVh5tS_yYOcaVBdqz68-1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRJXiw20EgUh3qlL-Q1--5" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ES2019&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20size%3D%26quot%3B3%26quot%3B%26gt%3B%26lt%3Bb%26gt%3BES5%26lt%3B%2Fb%26gt%3B%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%231ba1e2%3BstrokeColor%3D%23006EAF%3BfontColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22320%22%20y%3D%22100%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WaVh5tS_yYOcaVBdqz68-1">
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRJXiw20EgUh3qlL-Q1--6" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ES2020&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WaVh5tS_yYOcaVBdqz68-1">
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
