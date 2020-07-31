@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T08:29:03.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="EqMzu8loh-LCqPIuj50h" version="13.5.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-07-31T16:04:11.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ZLEymskw_ue8zJfeT4VO" version="13.5.5" type="github" pages="8">
   <diagram id="cMSHT4KQ2430ZTd0Kka2" name="Page-1">
     <mxGraphModel dx="1312" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,26 @@
         <mxCell id="70GUQhb11hRoDUMK4LEU-1" parent="70GUQhb11hRoDUMK4LEU-0" />
         <mxCell id="70GUQhb11hRoDUMK4LEU-2" value="&lt;a href=&quot;https://codesandbox.io/s/small-butterfly-343q4?file=/src/App.js&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;https://codesandbox.io/s/small-butterfly-343q4?file=/src/App.js&lt;/font&gt;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#CC0000;" parent="70GUQhb11hRoDUMK4LEU-1" vertex="1">
           <mxGeometry x="90" y="240" width="680" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="79OLnDxzh3Lbn-oT0uWt" name="Page-7">
+    <mxGraphModel dx="1072" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rrbqinS0URVryTq1Y2a2-0" />
+        <mxCell id="rrbqinS0URVryTq1Y2a2-1" parent="rrbqinS0URVryTq1Y2a2-0" />
+        <mxCell id="rrbqinS0URVryTq1Y2a2-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;install node js&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rrbqinS0URVryTq1Y2a2-1">
+          <mxGeometry x="350" y="90" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rrbqinS0URVryTq1Y2a2-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;install create-react-app&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="rrbqinS0URVryTq1Y2a2-1">
+          <mxGeometry x="350" y="180" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rrbqinS0URVryTq1Y2a2-4" value="&lt;span style=&quot;font-size: 24px&quot;&gt;generate a project&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="rrbqinS0URVryTq1Y2a2-1">
+          <mxGeometry x="350" y="270" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rrbqinS0URVryTq1Y2a2-5" value="&lt;span style=&quot;font-size: 24px&quot;&gt;build the project&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rrbqinS0URVryTq1Y2a2-1">
+          <mxGeometry x="350" y="360" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -140,26 +160,17 @@
         <mxCell id="XAScUPcb_Qg3TA5YaNsq-13" value="&lt;span style=&quot;font-size: 24px ; background-color: rgb(255 , 0 , 128)&quot;&gt;&amp;lt;Name of App&amp;gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ICupF93IY3TXaUEQpf5n-1">
           <mxGeometry x="520" y="240" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OIuE1QlGXUQg-qLC2m8J-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Alternate command&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="ICupF93IY3TXaUEQpf5n-1">
+          <mxGeometry x="335" y="80" width="190" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="79OLnDxzh3Lbn-oT0uWt" name="Page-7">
+  <diagram id="QLr7aVKXFB9sobvQdGv6" name="Page-8">
     <mxGraphModel dx="1072" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="rrbqinS0URVryTq1Y2a2-0" />
-        <mxCell id="rrbqinS0URVryTq1Y2a2-1" parent="rrbqinS0URVryTq1Y2a2-0" />
-        <mxCell id="rrbqinS0URVryTq1Y2a2-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;install node js&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rrbqinS0URVryTq1Y2a2-1">
-          <mxGeometry x="350" y="90" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rrbqinS0URVryTq1Y2a2-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;install create-react-app&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="rrbqinS0URVryTq1Y2a2-1">
-          <mxGeometry x="350" y="180" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rrbqinS0URVryTq1Y2a2-4" value="&lt;span style=&quot;font-size: 24px&quot;&gt;generate a project&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="rrbqinS0URVryTq1Y2a2-1">
-          <mxGeometry x="350" y="270" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rrbqinS0URVryTq1Y2a2-5" value="&lt;span style=&quot;font-size: 24px&quot;&gt;build the project&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rrbqinS0URVryTq1Y2a2-1">
-          <mxGeometry x="350" y="360" width="190" height="60" as="geometry" />
-        </mxCell>
+        <mxCell id="WaVh5tS_yYOcaVBdqz68-0" />
+        <mxCell id="WaVh5tS_yYOcaVBdqz68-1" parent="WaVh5tS_yYOcaVBdqz68-0" />
       </root>
     </mxGraphModel>
   </diagram>
