@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T20:05:01.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="1D-xnIUFpl718rijStoE" version="13.5.9" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2020-08-04T20:07:43.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="--amtPt3cLl9ZJYl730n" version="13.5.9" type="github" pages="22">
   <diagram id="cMSHT4KQ2430ZTd0Kka2" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1297,6 +1297,17 @@
         <mxCell id="VHRud5jsg-7WqkzU3ZMg-1" parent="VHRud5jsg-7WqkzU3ZMg-0" />
         <mxCell id="VHRud5jsg-7WqkzU3ZMg-2" value="&lt;a href=&quot;https://cdnjs.com/libraries/semantic-ui&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;https://cdnjs.com/libraries/semantic-ui&lt;/font&gt;&lt;/a&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="VHRud5jsg-7WqkzU3ZMg-1">
           <mxGeometry x="250" y="140" width="480" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a58zDUhYOUNoaSfqCuib" name="Page-22">
+    <mxGraphModel dx="1317" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="YVZeNc58d-WNsXtY4FIf-0" />
+        <mxCell id="YVZeNc58d-WNsXtY4FIf-1" parent="YVZeNc58d-WNsXtY4FIf-0" />
+        <mxCell id="YVZeNc58d-WNsXtY4FIf-2" value="&lt;a href=&quot;https://github.com/marak/Faker.js/&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;https://github.com/marak/Faker.js/&lt;/font&gt;&lt;/a&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YVZeNc58d-WNsXtY4FIf-1">
+          <mxGeometry x="240" y="150" width="480" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
