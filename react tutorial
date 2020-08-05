@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T19:30:50.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="DgVla8S-TLxYc8g5BTw-" version="13.5.9" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2020-08-05T19:36:26.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="RPLEHKjkK6P2Hjyt0C9G" version="13.5.9" type="github" pages="29">
   <diagram id="cMSHT4KQ2430ZTd0Kka2" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1469,6 +1469,41 @@
         </mxCell>
         <mxCell id="rpAwtgadlJiphLLV8rna-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Pass the name rohan&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="rpAwtgadlJiphLLV8rna-1">
           <mxGeometry x="310" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mBxfvHow0Gc5HOz0YKvY" name="Page-29">
+    <mxGraphModel dx="1077" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-0" />
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-1" parent="kDP_yCeHNDG1ZtrBwyv9-0" />
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-2" value="&lt;font size=&quot;3&quot;&gt;&amp;lt; Comment&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="kDP_yCeHNDG1ZtrBwyv9-1">
+          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.51;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kDP_yCeHNDG1ZtrBwyv9-1" source="kDP_yCeHNDG1ZtrBwyv9-3" target="kDP_yCeHNDG1ZtrBwyv9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;author&amp;nbsp; =&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="kDP_yCeHNDG1ZtrBwyv9-1">
+          <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kDP_yCeHNDG1ZtrBwyv9-1" source="kDP_yCeHNDG1ZtrBwyv9-4" target="kDP_yCeHNDG1ZtrBwyv9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&quot;pal&quot;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="kDP_yCeHNDG1ZtrBwyv9-1">
+          <mxGeometry x="420" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;/&amp;gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="kDP_yCeHNDG1ZtrBwyv9-1">
+          <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Passing Props from parent to child components&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kDP_yCeHNDG1ZtrBwyv9-1">
+          <mxGeometry x="134" y="100" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Name of prop&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kDP_yCeHNDG1ZtrBwyv9-1">
+          <mxGeometry x="310" y="190" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kDP_yCeHNDG1ZtrBwyv9-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Value of prop&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="kDP_yCeHNDG1ZtrBwyv9-1">
+          <mxGeometry x="430" y="340" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
