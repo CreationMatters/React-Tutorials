@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T19:21:20.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="_Ia-M4rHBkqNXNgjFYeP" version="13.5.9" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2020-08-05T19:25:12.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="1IXgiZDfs5UAisV8NYTU" version="13.5.9" type="github" pages="27">
   <diagram id="cMSHT4KQ2430ZTd0Kka2" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1406,6 +1406,23 @@
         </mxCell>
         <mxCell id="OkNGbx_SvObz9VP6Q-9z-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Comment Component&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="OkNGbx_SvObz9VP6Q-9z-1">
           <mxGeometry x="150" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vItUp4aj5JwHufIaDMED" name="Page-27">
+    <mxGraphModel dx="1077" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="aUhFkVEuaRQEEH2G-S8o-0" />
+        <mxCell id="aUhFkVEuaRQEEH2G-S8o-1" parent="aUhFkVEuaRQEEH2G-S8o-0" />
+        <mxCell id="aUhFkVEuaRQEEH2G-S8o-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Props&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="aUhFkVEuaRQEEH2G-S8o-1">
+          <mxGeometry x="340" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aUhFkVEuaRQEEH2G-S8o-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;System for passing data from Parent component to child components&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="aUhFkVEuaRQEEH2G-S8o-1">
+          <mxGeometry x="240" y="180" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aUhFkVEuaRQEEH2G-S8o-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Goal is to configure the child components&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="aUhFkVEuaRQEEH2G-S8o-1">
+          <mxGeometry x="240" y="280" width="300" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
