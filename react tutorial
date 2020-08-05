@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T08:56:13.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="_nDMWVgRk_8wqgFCshAg" version="13.5.9" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2020-08-05T19:09:17.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="wfp_UyG6YREv3Aef-mj1" version="13.5.9" type="github" pages="24">
   <diagram id="cMSHT4KQ2430ZTd0Kka2" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1319,6 +1319,32 @@
         <mxCell id="YVZeNc58d-WNsXtY4FIf-1" parent="YVZeNc58d-WNsXtY4FIf-0" />
         <mxCell id="YVZeNc58d-WNsXtY4FIf-2" value="&lt;a href=&quot;https://github.com/marak/Faker.js/&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;https://github.com/marak/Faker.js/&lt;/font&gt;&lt;/a&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="YVZeNc58d-WNsXtY4FIf-1">
           <mxGeometry x="240" y="150" width="480" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C-nut5lV4u5DbLj9irnW" name="Page-24">
+    <mxGraphModel dx="1077" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="a7EDAaFM88jqaAyRiiVu-0" />
+        <mxCell id="a7EDAaFM88jqaAyRiiVu-1" parent="a7EDAaFM88jqaAyRiiVu-0" />
+        <mxCell id="a7EDAaFM88jqaAyRiiVu-2" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="a7EDAaFM88jqaAyRiiVu-1">
+          <mxGeometry x="170" y="200" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="a7EDAaFM88jqaAyRiiVu-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;index.js&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="a7EDAaFM88jqaAyRiiVu-1">
+          <mxGeometry x="180" y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a7EDAaFM88jqaAyRiiVu-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;App Components&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="a7EDAaFM88jqaAyRiiVu-1">
+          <mxGeometry x="185" y="260" width="105" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="a7EDAaFM88jqaAyRiiVu-5" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="a7EDAaFM88jqaAyRiiVu-1">
+          <mxGeometry x="490" y="200" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="a7EDAaFM88jqaAyRiiVu-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;CommentComponent.js&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="a7EDAaFM88jqaAyRiiVu-1">
+          <mxGeometry x="430" y="160" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a7EDAaFM88jqaAyRiiVu-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Comment component&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="a7EDAaFM88jqaAyRiiVu-1">
+          <mxGeometry x="505" y="260" width="105" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
