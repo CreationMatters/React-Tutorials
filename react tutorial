@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T18:45:31.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="TZmo9glzvzvJcbm03WAy" version="13.6.0" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2020-08-07T18:46:12.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Nm5cSrSTyc0qmpcBkcHH" version="13.6.0" type="github" pages="29">
   <diagram id="cMSHT4KQ2430ZTd0Kka2" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1520,6 +1520,9 @@
         <mxCell id="aUhFkVEuaRQEEH2G-S8o-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Props&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="aUhFkVEuaRQEEH2G-S8o-1" vertex="1">
           <mxGeometry x="340" y="130" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="mn_px5M4iL3sfdOnlZvS-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="aUhFkVEuaRQEEH2G-S8o-1" source="aUhFkVEuaRQEEH2G-S8o-3" target="aUhFkVEuaRQEEH2G-S8o-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aUhFkVEuaRQEEH2G-S8o-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;System for passing data from Parent component to child components&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="aUhFkVEuaRQEEH2G-S8o-1" vertex="1">
           <mxGeometry x="240" y="180" width="300" height="50" as="geometry" />
         </mxCell>
@@ -1530,7 +1533,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XFrUNC0iiCyzClN41NZD" name="Page-28">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rpAwtgadlJiphLLV8rna-0" />
         <mxCell id="rpAwtgadlJiphLLV8rna-1" parent="rpAwtgadlJiphLLV8rna-0" />
@@ -1576,7 +1579,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mBxfvHow0Gc5HOz0YKvY" name="Page-29">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kDP_yCeHNDG1ZtrBwyv9-0" />
         <mxCell id="kDP_yCeHNDG1ZtrBwyv9-1" parent="kDP_yCeHNDG1ZtrBwyv9-0" />
